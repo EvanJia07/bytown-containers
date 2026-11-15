@@ -1,0 +1,3 @@
+﻿Q1: Files written inside a container without a volume live in the container's writable layer and are permanently lost when the container is deleted
+Q2: Web is hidden behind the reverse proxy on the internal Docker Compose network so clients can only reach it through the proxy container
+Q3: An image is a read-only template/blueprint, whereas a container is a live, running instance created from that image
